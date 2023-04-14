@@ -1,0 +1,51 @@
+body {
+    height: 900px;
+}
+
+#navbarNav {
+    padding: 2%;
+    background-color: rgba(230, 242, 255, 0.966);
+    font-size: 20px;
+    justify-content: center;
+}
+
+.nav-item {
+    padding-left: 60px;
+    margin-right: 100px;
+}
+
+.box {
+    background-color: rgba(39, 38, 38, 0.961);
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 15%;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#logo {
+    color: rgb(182, 121, 9) !important;
+    font-size: 25px;
+    padding-right: 300px;
+
+}
+
+.fa-palette {
+
+    margin-right: 15px;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.fa-shuffle,
+.fa-droplet {
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+p { 
+    padding-top: 5%;
+}
